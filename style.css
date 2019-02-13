@@ -1,0 +1,13 @@
+.background {
+  height: 100vh;
+  background: url('dark-wallpapers-hd-65849-1306192.jpg') no-repeat;
+  background-size: cover;
+  text-align: center;
+  background-position: center;
+}
+
+p{
+  color: #fff;
+  margin: 0 auto;
+  padding: 250px 0 50px 0;
+}
